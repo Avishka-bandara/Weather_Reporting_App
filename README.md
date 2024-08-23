@@ -1,16 +1,10 @@
-# new_iot_project
+# Weather Reporting Mobile Application 
 
-A new Flutter project.
+## Arduino, Firebase, Flutter & Dart Based Project
 
-## Getting Started
+This Application shows the  Temperature, Humidity, and Rain Fall Drop in the data sensed from the sensors, built using Arduino. sensed data stored in Google Firebase and that collected data fetch to the mobile application.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Component used in this Project 
+  * Temperature, Humidity Sensor ( **DHT11**)
+  * Rainfall Sensor ( **YL83**)
+  * MicroController ( **ESP8266**)
